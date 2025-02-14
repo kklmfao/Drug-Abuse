@@ -8,11 +8,11 @@ Drug abuse, a pervasive public health concern, often remains hidden within socie
 
 Drug abuse, a complex societal issue with far-reaching consequences, often remains hidden due to various factors, including stigma, fear of legal repercussions, and lack of awareness. This necessitates a proactive approach to identify and address the problem effectively. While many countries grapple with high drug abuse prevalence, some have successfully implemented strategies to mitigate this issue. This research focuses on countries with reportedly low drug abuse rates, aiming to understand their unique approaches and the impact of their solutions.
 
-The research examines five countries: Norway, New Zealand, Portugal, the United Kingdom, and Australia. These countries have been selected based on reports and indices suggesting lower drug abuse prevalence compared to global averages. For instance, the Global Drug Policy Index ranks Norway, New Zealand, and Portugal among the top three countries with the most favorable drug policies (Global Drug Policy Index, 2025). Furthermore, data on the prevalence of opiates use indicates that Norway has a relatively low rate compared to other European countries (Wikipedia, 2025). The study delves into their specific solutions, including drug treatment courts, harm reduction programs, decriminalization policies, and comprehensive treatment and rehabilitation initiatives. By analyzing these countries' successes, challenges, and the factors contributing to their positive outcomes, this research aims to provide valuable insights for policymakers and stakeholders worldwide.
+The research examines five countries: Norway, New Zealand, Portugal, the United Kingdom, and Australia. These countries have been selected based on reports and indices suggesting lower drug abuse prevalence compared to global averages. For instance, the Global Drug Policy Index ranks Norway, New Zealand, and Portugal among the top three countries with the most favorable drug policies1. Furthermore, data on the prevalence of opiates use indicates that Norway has a relatively low rate compared to other European countries2. The study delves into their specific solutions, including drug treatment courts, harm reduction programs, decriminalization policies, and comprehensive treatment and rehabilitation initiatives. By analyzing these countries' successes, challenges, and the factors contributing to their positive outcomes, this research aims to provide valuable insights for policymakers and stakeholders worldwide.
 
 ## **Methodology**
 
-This research employed a comprehensive literature review methodology, primarily utilizing Google Scholar to identify relevant academic journals and reports. The search focused on countries with low drug abuse prevalence, as indicated by reports like the Global Drug Policy Index and studies on opiate use prevalence (Global Drug Policy Index, 2025). Subsequently, the research explored the specific solutions implemented in these countries, prioritizing academic journals with "doi" to ensure credibility and accuracy.
+This research employed a comprehensive literature review methodology, primarily utilizing Google Scholar to identify relevant academic journals and reports. The search focused on countries with low drug abuse prevalence, as indicated by reports like the Global Drug Policy Index and studies on opiate use prevalence1. Subsequently, the research explored the specific solutions implemented in these countries, prioritizing academic journals with "doi" to ensure credibility and accuracy.
 
 The research process involved the following steps:
 
@@ -136,26 +136,6 @@ These countries' experiences provide valuable insights for policymakers and stak
 | Australia | Comprehensive treatment and rehabilitation programs, support services for families, specialized services for specific populations | Improved access to treatment and support services, reduced drug-related harm 18 | Ensuring equitable access to services for all populations | Comprehensive drug treatment and rehabilitation programs; support services for families and friends of people who use drugs; specialized services for specific populations; leading addiction treatment centers like Turning Point; support services provided by organizations like The Salvation Army |
 
 The findings from these countries suggest that a comprehensive approach that combines harm reduction, treatment, and social reintegration is crucial for effectively addressing hidden drug abuse. By prioritizing public health and individual well-being, countries can create a supportive environment that encourages people who use drugs to seek help and reduces the negative consequences associated with drug use.
-
-#### **References**
-
-Global Drug Policy Index. (2025, February 14). Ranking. https://globaldrugpolicyindex.net/ranking/
-
-Justice Speakers International. (2025, February 14). Drug treatment courts around the world: Norway. https://www.justicespeakersinternational.com/drug-treatment-courts-around-world/norway/
-
-National Policies Platform - European Union. (2025, February 14). Current debates and reforms. https://national-policies.eacea.ec.europa.eu/youthwiki/chapters/norway/78-current-debates-and-reforms
-
-New Zealand Drug Foundation. (2025, February 14). A harm reduction approach. https://drugfoundation.org.nz/topics/workplaces-and-venues/events/a-harm-reduction-approach
-
-Office of Justice Programs. (2025, February 14). New Zealand's national drug policy. https://ojp.gov/ncjrs/virtual-library/abstracts/new-zealands-national-drug-policy
-
-Te Whatu Ora - Health New Zealand. (2025, February 14). Alcohol and other drug policy. https://www.tewhatuora.govt.nz/health-services-and-programmes/mental-health-and-addiction/addiction/alcohol-and-other-drugs/alcohol-and-other-drug-policy
-
-Transform Drug Policy Foundation. (2025, February 14). Drug decriminalisation in Portugal: Setting the record straight. https://transformdrugs.org/blog/drug-decriminalisation-in-portugal-setting-the-record-straight
-
-Turning Point. (2025, February 14). Addiction treatment, education and research centre. https://www.turningpoint.org.au/
-
-Wikipedia. (2025, February 14). List of countries by prevalence of opiates use. https://en.wikipedia.org/wiki/List_of_countries_by_prevalence_of_opiates_use
 
 #### **Works cited**
 

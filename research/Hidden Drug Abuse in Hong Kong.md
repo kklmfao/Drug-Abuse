@@ -51,18 +51,10 @@ By addressing these research gaps, we can develop more effective strategies to p
 
 ## **References**
 
-Chan, G. H., Lo, T. W., Lee, G. K.-W., & Tam, C. H.-L. (2020). Social capital and social networks of hidden drug abuse in Hong Kong. International Journal of Environmental Research and Public Health, 15(1), 48. https://pmc.ncbi.nlm.nih.gov/articles/PMC7503402/
-
-Information Services Department, Hong Kong Special Administrative Region Government. (2024, February 21). Drug abuse and drug situation in Hong Kong in 2023. https://www.info.gov.hk/gia/general/202402/21/P2024022000549.htm
-
-Information Services Department, Hong Kong Special Administrative Region Government. (2024, September 20). Drug abuse and drug situation in Hong Kong in the first half of 2024. https://www.info.gov.hk/gia/general/202409/20/P2024092000530.htm
-
-Pacific Prime. (2025, February 13). Youth drug abuse: Serious drug offences in Hong Kong. https://www.pacificprime.hk/blog/drug-abuse-youth-hong-kong/
-
-Scientific Research Publishing. (2025). Experience of drug abusers participating in community-based drug rehabilitation services in Hong Kong: A mixed-method study. https://www.scirp.org/journal/paperinformation?paperid=102213
-
-Tam, C. H.-l., Kwok, S. I., Lam, S. H.-p., Lo, T. W., & Lee, G. K.-w. (2018). Hidden drug abuse in Hong Kong: From social acquaintance to social isolation. Frontiers in Psychiatry, 9, 457. https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00457/full
-
-Tam, C. H.-l., Lee, G. K.-w., Lo, T. W., & Chu, A. T.-w. (2023). Development of a community-based network to promote anti-drug referral among community pharmacists in Hong Kong. International Journal of Environmental Research and Public Health, 19(18), 11544. https://www.mdpi.com/1660-4601/19/18/11544
-
-Youth Drug Abuse: Serious Drug Offences in Hong Kong. (2025, February 13). Pacific Prime. [https://www.pacificprime.hk/blog/drug-abuse-youth-hong-kong/](https://www.pacificprime.hk/blog/drug-abuse-youth-hong-kong/)
+* Chan, G. H., Lo, T. W., Lee, G. K.-W., & Tam, C. H.-L. (2020). Social capital and social networks of hidden drug abuse in Hong Kong. Substance Abuse Treatment, Prevention, and Policy, 15(1), 48\. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7503402/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7503402/)  
+* Drug abuse and drug situation in Hong Kong in 2023 (with photos). (2024, February 21). Information Services Department, Hong Kong Special Administrative Region Government. [https://www.info.gov.hk/gia/general/202402/21/P2024022000549.htm](https://www.info.gov.hk/gia/general/202402/21/P2024022000549.htm)  
+* Drug abuse and drug situation in Hong Kong in the first half of 2024\. (2024, September 20). Information Services Department, Hong Kong Special Administrative Region Government. [https://www.info.gov.hk/gia/general/202409/20/P2024092000530.htm](https://www.info.gov.hk/gia/general/202409/20/P2024092000530.htm)  
+* Experience of Drug Abusers Participating in Community-Based Drug Rehabilitation Services in Hong Kong: A Mixed-Method Study. (2025). Scientific Research Publishing. [https://www.scirp.org/journal/paperinformation?paperid=102213](https://www.scirp.org/journal/paperinformation?paperid=102213)  
+* Tam, C. H.-l., Kwok, S. I., Lam, S. H.-p., Lo, T. W., & Lee, G. K.-w. (2018). Hidden drug abuse in Hong Kong: From social acquaintance to social isolation. Frontiers in Psychiatry, 9, 457\. [https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00457/full](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00457/full)  
+* Tam, C. H.-l., Lee, G. K.-w., Lo, T. W., & Chu, A. T.-w. (2023). Development of a community-based network to promote anti-drug referral among community pharmacists in Hong Kong. International Journal of Environmental Research and Public Health, 19(18), 11544\. [https://www.mdpi.com/1660-4601/19/18/11544](https://www.mdpi.com/1660-4601/19/18/11544)  
+* Youth Drug Abuse: Serious Drug Offences in Hong Kong. (2025, February 13). Pacific Prime. [https://www.pacificprime.hk/blog/drug-abuse-youth-hong-kong/](https://www.pacificprime.hk/blog/drug-abuse-youth-hong-kong/)

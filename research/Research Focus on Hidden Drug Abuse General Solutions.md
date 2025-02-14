@@ -4,16 +4,16 @@ Drug abuse, often concealed from the public eye, presents a significant challeng
 
 ## **Understanding the Hidden Nature of Drug Abuse**
 
-Hidden drug abuse refers to the concealed use of illicit substances or the misuse of prescription medications, often occurring within the confines of one's home or among trusted peers (New Creation Treatment Centers, 2025). This clandestine nature poses difficulties for detection and intervention, hindering efforts to address the problem effectively.
+Hidden drug abuse refers to the concealed use of illicit substances or the misuse of prescription medications, often occurring within the confines of one's home or among trusted peers1. This clandestine nature poses difficulties for detection and intervention, hindering efforts to address the problem effectively.
 
 Several factors contribute to the hidden nature of drug abuse:
 
-* **Fear of Stigma and Legal Consequences:** Individuals may hide their drug use to avoid social stigma, judgment, and potential legal repercussions (Mountainside Treatment Center, 2025).  
-* **Shame and Denial:** Feelings of shame and denial can prevent individuals from acknowledging their substance abuse problem and seeking help (Mountainside Treatment Center, 2025).  
-* **Easy Access to Drugs:** The increasing availability of drugs, particularly through online channels, facilitates hidden drug use (Tam et al., 2018).  
-* **Shifting Drug Preferences:** The rise in the use of psychotropic substances with less apparent dependence symptoms can make it harder to detect hidden drug abuse (Tam et al., 2018).  
-* **"Tricks" Professionals Use:** Professionals struggling with addiction may employ tactics like working late, befriending colleagues with substance abuse problems, and blaming others to conceal their drug use (Promises Treatment Centers, 2025).  
-* **The "Iron Law of Prohibition":** Drug prohibition can inadvertently lead to the production and distribution of more potent and dangerous drugs, as smugglers prioritize substances with higher potency to maximize profits and minimize risk (Cato Institute, 2025).
+* **Fear of Stigma and Legal Consequences:** Individuals may hide their drug use to avoid social stigma, judgment, and potential legal repercussions2.  
+* **Shame and Denial:** Feelings of shame and denial can prevent individuals from acknowledging their substance abuse problem and seeking help2.  
+* **Easy Access to Drugs:** The increasing availability of drugs, particularly through online channels, facilitates hidden drug use4.  
+* **Shifting Drug Preferences:** The rise in the use of psychotropic substances with less apparent dependence symptoms can make it harder to detect hidden drug abuse4.  
+* **"Tricks" Professionals Use:** Professionals struggling with addiction may employ tactics like working late, befriending colleagues with substance abuse problems, and blaming others to conceal their drug use5.  
+* **The "Iron Law of Prohibition":** Drug prohibition can inadvertently lead to the production and distribution of more potent and dangerous drugs, as smugglers prioritize substances with higher potency to maximize profits and minimize risk6.
 
 ## **Effective Solutions and Strategies**
 
@@ -91,24 +91,6 @@ Hidden drug abuse presents a complex challenge that demands comprehensive and co
 
 Moving forward, it is essential to continue researching and developing innovative solutions, promoting harm reduction approaches, and advocating for policies that support treatment and recovery. By working together, we can break down the stigma surrounding drug abuse, encourage help-seeking behavior, and create a path towards a healthier and more just future for all.
 
-#### **References**
-
-Cato Institute. (2025, February 13). The hidden costs of drug prohibition. https://www.cato.org/commentary/hidden-costs-drug-prohibition
-
-Health Direct. (2025, February 13). Help someone who is misusing drugs or alcohol. https://www.healthdirect.gov.au/help-someone-who-is-misusing-drugs-or-alcohol
-
-Mountainside Treatment Center. (2025, February 13). Secrecy in addiction. https://www.mountainside.com/blog/drug-addiction/secrecy-in-addiction/
-
-National Institute on Drug Abuse. (2025, February 13). Understanding drug use and addiction. https://nida.nih.gov/publications/drugfacts/understanding-drug-use-addiction
-
-New Creation Treatment Centers. (2025, February 13). Hiding addiction from family. https://newcreationtreatment.com/family-hidden-addiction/
-
-Promises Treatment Centers. (2025, February 13). How professionals hide an addiction. https://www.promises.com/addiction-blog/tricks-professionals-use-to-hide-addiction/
-
-Psyclarity Health. (2025, February 13). Community support for substance abuse and addiction. https://psyclarityhealth.com/community-support-for-substance-abuse-and-addiction/
-
-Tam, C. H.-l., Kwok, S. I., Lam, S. H.-p., Lo, T. W., & Lee, G. K.-w. (2018). Hidden drug abuse in Hong Kong: From social acquaintance to social isolation. Frontiers in Psychiatry, 9, 457. https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00457/full
-
 #### **Works cited**
 
 1\. Hiding Addiction from Family \- New Creation Treatment Centers, accessed February 13, 2025, [https://newcreationtreatment.com/family-hidden-addiction/](https://newcreationtreatment.com/family-hidden-addiction/)  
@@ -125,7 +107,7 @@ Tam, C. H.-l., Kwok, S. I., Lam, S. H.-p., Lo, T. W., & Lee, G. K.-w. (2018). Hi
 12\. Safety and Effectiveness of Syringe Services Programs \- CDC, accessed February 13, 2025, [https://www.cdc.gov/syringe-services-programs/php/safety-effectiveness.html](https://www.cdc.gov/syringe-services-programs/php/safety-effectiveness.html)  
 13\. Alcohol, Tobacco and Other Drug Use: Prevention and Intervention, accessed February 13, 2025, [https://www.nj.gov/education/safety/sandp/atd/](https://www.nj.gov/education/safety/sandp/atd/)  
 14\. NA and Other Support Groups for Drug Addiction \- HelpGuide.org, accessed February 13, 2025, [https://www.helpguide.org/mental-health/addiction/na-and-peer-support-groups-for-drug-addiction](https://www.helpguide.org/mental-health/addiction/na-and-peer-support-groups-for-drug-addiction)  
-15\. Labeled as "drug-seeking": nurses use harm reduction philosophy to ..., accessed February 13, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC10614634/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10614634/)  
+15\. Labeled as “drug-seeking”: nurses use harm reduction philosophy to ..., accessed February 13, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC10614634/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10614634/)  
 16\. www.alliedacademies.org, accessed February 13, 2025, [https://www.alliedacademies.org/articles/the-crucial-role-of-law-enforcement-in-combating-drugrelated-crime.pdf](https://www.alliedacademies.org/articles/the-crucial-role-of-law-enforcement-in-combating-drugrelated-crime.pdf)  
 17\. Prevention of substance use disorders in the community and ..., accessed February 13, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC5844172/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5844172/)  
 18\. The Role of Law Enforcement Officers/Police in Drug Prevention ..., accessed February 13, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC7967531/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7967531/)  

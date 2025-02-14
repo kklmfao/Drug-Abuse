@@ -4,17 +4,17 @@ Drug abuse is a serious public health problem with devastating consequences for 
 
 ## **Drug Production and Trafficking in Asia**
 
-The Asia Pacific region faces significant challenges related to drug production and trafficking. A study published in the journal *Substance Abuse Treatment, Prevention, and Policy* provides an overview of recreational drug use in the region (McKetin et al., 2018). While data gaps exist for some countries, the report highlights the significant role of the United Nations Office on Drugs and Crime (UNODC) programs in improving data collection networks, particularly in East and Southeast Asia (McKetin et al., 2018). The study emphasizes the need for continued efforts to gather accurate data on drug production and use to effectively address the hidden drug abuse problem.
+The Asia Pacific region faces significant challenges related to drug production and trafficking. A study published in the journal *Substance Abuse Treatment, Prevention, and Policy* provides an overview of recreational drug use in the region1. While data gaps exist for some countries, the report highlights the significant role of the United Nations Office on Drugs and Crime (UNODC) programs in improving data collection networks, particularly in East and Southeast Asia1. The study emphasizes the need for continued efforts to gather accurate data on drug production and use to effectively address the hidden drug abuse problem.
 
 ### **Drug Production in the Asia Pacific Region**
 
-The majority of global illicit opium production occurs in Asia, with Afghanistan and Myanmar being major producers (McKetin et al., 2018). Cannabis production is widespread throughout Asia, with cannabis herb production across all regions and cannabis resin production concentrated in Afghanistan and neighboring Southwest and Central Asian countries (McKetin et al., 2018). Asia also has significant clandestine production of Amphetamine-Type Stimulants (ATS), particularly methamphetamine, mainly concentrated in East and Southeast Asia (McKetin et al., 2018). Ketamine production is also prevalent in Asia, particularly in India and China, with some of it being diverted from pharmaceutical supplies (McKetin et al., 2018). In recent years, there has been increasing production of novel psychoactive substances ('legal highs') in Asia, particularly in China and some other countries in Southeast and South Asia (McKetin et al., 2018).
+The majority of global illicit opium production occurs in Asia, with Afghanistan and Myanmar being major producers1. Cannabis production is widespread throughout Asia, with cannabis herb production across all regions and cannabis resin production concentrated in Afghanistan and neighboring Southwest and Central Asian countries1. Asia also has significant clandestine production of Amphetamine-Type Stimulants (ATS), particularly methamphetamine, mainly concentrated in East and Southeast Asia1. Ketamine production is also prevalent in Asia, particularly in India and China, with some of it being diverted from pharmaceutical supplies1. In recent years, there has been increasing production of novel psychoactive substances ('legal highs') in Asia, particularly in China and some other countries in Southeast and South Asia1.
 
 | Country | Drug Type | Prevalence | Source |
 | :---- | :---- | :---- | :---- |
-| Afghanistan | Opioids | 2.7% of the population aged 15–64 | McKetin et al., 2018 |
-| Iran | Opioids | 2.3% of the population aged 15–64 | McKetin et al., 2018 |
-| Myanmar | Opium | 1.7% of the population in opium-growing villages | McKetin et al., 2018 |
+| Afghanistan | Opioids | 2.7% of the population aged 15–64 | 1 |
+| Iran | Opioids | 2.3% of the population aged 15–64 | 1 |
+| Myanmar | Opium | 1.7% of the population in opium-growing villages | 1 |
 
 ### **Drug Trafficking Between Myanmar and China**
 
@@ -83,23 +83,3 @@ The hidden drug abuse problem poses a significant challenge to public health and
 9\. THE SOCIAL IMPACT OF DRUG ABUSE, accessed February 13, 2025, [https://www.unodc.org/pdf/technical\_series\_1995-03-01\_1.pdf](https://www.unodc.org/pdf/technical_series_1995-03-01_1.pdf)  
 10\. Social Capital and Social Networks of Hidden Drug Abuse in Hong Kong \- PMC, accessed February 13, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC7503402/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7503402/)  
 11\. Hidden Drug Abuse in Hong Kong: From Social Acquaintance to Social Isolation \- PMC, accessed February 13, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC6167475/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6167475/)
-
-#### **References**
-
-China Consulate General in Los Angeles. (2023, June 28). China drug situation report 2022. http://losangeles.china-consulate.gov.cn/eng/topnews/202306/t20230628_11104750.htm
-
-Chinese Embassy in the United States. (2024, June 20). China drug situation report 2023. http://us.china-embassy.gov.cn/eng/zggs/202406/t20240620_11438701.htm
-
-McKetin, R., Kozel, N., Douglas, J., Ali, R., Vicknasingam, B., Lund, J., & Li, J. H. (2018). Recreational drug use in the Asia Pacific region: Improvement in our understanding of the problem through the UNODC programmes. Substance Abuse Treatment, Prevention, and Policy, 13(1), 1-7. https://pmc.ncbi.nlm.nih.gov/articles/PMC3550160/
-
-South China Morning Post. (2025, February 13). Narcos: The hidden drug highways linking Asia. http://multimedia.scmp.com/week-asia/article/2174634/narcos-hidden-drug-trafficking/
-
-United Nations Office on Drugs and Crime. (1965). Drug use and addiction in Asia. UNODC Bulletin on Narcotics. https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1965-01-01_3_page002.html
-
-United Nations Office on Drugs and Crime. (2023). Synthetic drugs in East and Southeast Asia. https://www.unodc.org/roseap/uploads/documents/Publications/2023/Synthetic_Drugs_in_East_and_Southeast_Asia_2023.pdf
-
-United Nations Office on Drugs and Crime. (2023). World drug report 2023. https://www.unodc.org/unodc/en/data-and-analysis/world-drug-report-2023.html
-
-United Nations Office on Drugs and Crime. (1995). The social impact of drug abuse. https://www.unodc.org/pdf/technical_series_1995-03-01_1.pdf
-
-U.S. Department of Justice. (2025, February 13). Cross-border drug trafficking between Myanmar and China. https://www.ojp.gov/pdffiles1/nij/grants/218254.pdf
